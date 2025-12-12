@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "sagitario_zoomod",
-  "version": "0.1.5",
+  "version": "${version}",
   "name": "Sagitario Zoom Mod",
   "description": "the mod that you can make short zoom in minecraft",
   "authors": ["juanestban"],
@@ -9,14 +9,14 @@
     "sources": "https://github.com/Juanestban/sagitario-zoomod"
   },
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/sagitario_zoomod/icon.png",
   "environment": "*",
   "entrypoints": {
     "client": ["com.sagitario_zoomod.SagitarioZoomMod"]
   },
   "depends": {
-    "fabricloader": "0.16.14",
-    "minecraft": "1.21.1",
+    "fabricloader": ">=0.17.2",
+    "minecraft": "~1.21.10",
     "java": ">=21",
     "fabric-api": "*"
   }

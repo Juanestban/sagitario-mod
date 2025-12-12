@@ -22,7 +22,7 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"modid" {
+		"sagitario_zoomod" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}
