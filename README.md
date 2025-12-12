@@ -6,6 +6,19 @@ base
 
 ## Commands for build (development mode)
 
+### clean
+
+```bash
+./gradlew clean
+```
+
+### generate sources
+
+```bash
+./gradlew genSources
+```
+
+### build
 ```bash
 ./gradlew build
 ```
