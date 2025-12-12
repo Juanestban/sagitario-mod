@@ -9,7 +9,7 @@
     "sources": "https://github.com/Juanestban/sagitario-zoomod"
   },
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/sagitario_zoomod/icon.png",
   "environment": "*",
   "entrypoints": {
     "client": ["com.sagitario_zoomod.SagitarioZoomMod"]
